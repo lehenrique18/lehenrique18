@@ -1,6 +1,8 @@
 # Olá, Eu sou o Leandro Henrique.
 
-- 🌱 Estudando HTML e CSS
+- 👨🏻‍💻 Em constante aprendizado
+- ⚡ Aprendendo jQuery 
+
  
 <div align="center">
   <a href="https://github.com/lehenrique18">
